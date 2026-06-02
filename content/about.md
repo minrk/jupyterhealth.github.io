@@ -7,6 +7,7 @@ aliases = ["about-us", "about-jupyterhealth", "contact"]
 
 <!-- <p style="text-align: center; font-weight: 500; font-size: 36px">We Are Reimagining How Data Drives Healthcare.</p>  -->
 
+test about
 
 To create a smarter, more connected, and patient-centered future, explore our open platform that enhances data accessibility and supports informed decision-making for healthcare researchers, clinicians, and patients.
 
@@ -113,6 +114,3 @@ For detailed instructions on how to integrate and utilize the JupyterHealth plat
 
 ## **Join Our Community**
 Become part of the JupyterHealth community to learn, share, and contribute to the development of our technologies. Engage with us on[GitHub](https://github.com/jupyterhealth) to contribute to the project, find support and collaborate with like-minded professionals across the globe. Your involvement can help shape the future of healthcare technology. -->
-
-
-
